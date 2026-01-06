@@ -17,7 +17,7 @@ Complete implementation of a data engineering and analytics pipeline for Olist's
 - Performance metrics and trend analysis
 
 ## How to Run
-1. Configue KAGGLE_USERNAME and KAGGLE_KEY on Secrets's Colab
+1. Configue KAGGLE_USERNAME, KAGGLE_KEY and OPENAI_API_KEY on Secrets's Colab
 2. Run all cells sequentially
 3. Access dashboard via provided URL
 
