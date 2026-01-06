@@ -2,6 +2,10 @@
 Technical Challenge for Dadosfera. Use of a Kaggle database to assess technical capabilities of interest to the company.
 Complete implementation of a data engineering and analytics pipeline for Olist's Brazilian e-commerce dataset.
 
+## Data Modeling
+Kimball's principals selected, as following:
+<img width="2486" height="1496" alt="dataschema_olist" src="https://github.com/user-attachments/assets/4f77bff8-8e36-496b-a006-dd385fec8d1a" />
+
 ## Architecture
 1. **Data Ingestion**: Kaggle API to download dataset
 2. **Data Quality**: Great Expectations validation suite
